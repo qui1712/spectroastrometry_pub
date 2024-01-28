@@ -1,0 +1,2 @@
+__pycache__/
+Gas giant spectrum libraries/
